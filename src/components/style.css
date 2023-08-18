@@ -1,0 +1,12 @@
+.nav-list {
+  margin-left: 75%;
+  margin-top: 10px;
+}
+
+nav {
+  background-image: url("/public/imgs/nav-bg.jpg");
+}
+
+.font {
+  font-family: "Maven Pro", sans-serif;
+}
