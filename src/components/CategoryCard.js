@@ -1,10 +1,10 @@
 import React from "react";
-import Img from "../assets/imgs/nav-bg.jpg";
+import History from "../assets/imgs/art_history_2.jpg";
 
 export default function CategoryCard({ children }) {
   return (
     <div class="card mt-5" style={{ width: "700px", height: "450px" }}>
-      <img src={Img} class="card-img-top" alt="..." />
+      <img src={History} class="card-img-top" alt="..." />
       <div class="card-body">
         <h5 class="card-title">{children}</h5>
 

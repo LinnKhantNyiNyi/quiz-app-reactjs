@@ -5,7 +5,7 @@ import CategorySection from "../components/CategorySection";
 export default function Home() {
   return (
     <>
-      <div className="container mt-3 ">
+      <div className="container-l  ">
         <Navbar />
         <CategorySection />
       </div>

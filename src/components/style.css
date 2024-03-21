@@ -10,3 +10,18 @@ nav {
 .font {
   font-family: "Maven Pro", sans-serif;
 }
+
+.CatBtn {
+  border: none;
+  padding: 0;
+  text-align: left;
+}
+
+.catLink {
+  text-decoration: none;
+  cursor: pointer;
+}
+
+.list-group-item:hover {
+  background-color: rgb(172, 171, 171);
+}
